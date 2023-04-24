@@ -1,0 +1,6 @@
+--- Receipt --- 
+id   |Name                |Price     |Category   |Number 
+1    |Harry Potter        |10.00     |Book       |5     
+
+Total: 66.49
+Thank you!
